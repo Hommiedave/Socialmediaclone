@@ -1,0 +1,6 @@
+com/example/facebookjpa/CreateUser.class
+com/example/facebookjpa/FacebookJpaApplication.class
+com/example/facebookjpa/entities/AppUser.class
+com/example/facebookjpa/entities/Like.class
+com/example/facebookjpa/entities/Post.class
+com/example/facebookjpa/entities/Comment.class
